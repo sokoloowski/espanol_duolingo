@@ -337,3 +337,63 @@ Słówka w lekcji:
 | Yo vivo en España |  Żyję w Hiszpanii  |
 
 # Checkpoint 1
+
+## Greetings
+
+## Travel 2
+
+## Schedule
+
+## People 2
+
+## People 3
+
+## School 2
+
+## Agreement
+
+## Family 2
+
+## Work
+
+## Emotions
+
+## People 4
+
+## Fashion
+
+## Travel 3
+
+## Leisure
+
+## Pres Tense 2
+
+## Activities
+
+## Preference
+
+## Routines
+
+## Household
+
+## Menu
+
+## Family 3
+
+## Shopping 2
+
+## Describe
+
+## To Be
+
+## Recreation
+
+## Community
+
+## Phrases 2
+
+## Connection
+
+## Routines 2
+
+# Checkpoint 2
