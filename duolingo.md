@@ -263,9 +263,9 @@ Wszystkie czasowniki w języku hiszpańskim zmieniają końcówkę w zależnośc
 
 |  podmiot  | czasownik (hablar) |
 | :-------: | :----------------: |
-|    yo     |       habl**o**        |
-|    tú     |       habl**as**       |
-| él / ella |       habl**a**        |
+|    yo     |     habl**o**      |
+|    tú     |     habl**as**     |
+| él / ella |     habl**a**      |
 
 ## School
 
