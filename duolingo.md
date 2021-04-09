@@ -306,3 +306,32 @@ Słówka w lekcji:
 |        leer        |          czytać          |
 
 ## People
+
+W języku hiszpańskim można się przedstawić na dwa sposoby:
+
+> Me llamo ... - Nazywam się ...
+
+> Mi nombre es ... - Moje imię to ...
+
+Również po polsku możemy się tak przedstawiać, podczas gdy w języku angielskim mamy tylko jeden sposób: "My name is ..."
+
+W języku hiszpańskim końcówki przymiotników zależą od płci osoby, którą opisują. Działa to podobnie, jak w języku polskim:
+
+> Miguel es americano. - Miguel jest amerykaninem.
+
+> Ana es americana. - Ana jest amerykanką.
+
+By zapytać kogoś, skąd pochodzi, możesz powiedzieć:
+
+> ¿De dónde eres, José? - Skąd jesteś, José?
+>
+> ¡Soy de México! - Jestem z Meksyku!
+
+Słówka w lekcji:
+
+|      Español      |       Polski       |
+| :---------------: | :----------------: |
+|      nombre       |        imię        |
+|     me llamo      |    nazywam się     |
+| Yo soy de España  | Jestem z Hiszpanii |
+| Yo vivo en España |  Żyję w Hiszpanii  |
