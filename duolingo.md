@@ -335,3 +335,5 @@ Słówka w lekcji:
 |     me llamo      |    nazywam się     |
 | Yo soy de España  | Jestem z Hiszpanii |
 | Yo vivo en España |  Żyję w Hiszpanii  |
+
+# Checkpoint 1
