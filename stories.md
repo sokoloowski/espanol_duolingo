@@ -31,7 +31,27 @@ title: Español
 |                   - ¡María, estás muy cansada!                    |                     - María, jesteś bardzo zmęczona!                     |
 |        - Sí, necesito más café... ¡com azúcar, no con sal!        |          - Tak, potrzebuję więcej kawy... z cukrem, nie z solą!          |
 
-### Una cita
+### Una cita - Randka
+
+|                            Español                            |                                Polski                                |
+| :-----------------------------------------------------------: | :------------------------------------------------------------------: |
+|           Julia está en una cita en un restaurante.           |                 Julia jest na randce w restauracji.                  |
+|                     - ¿Qué quieres comer?                     |                           - Co byś zjadła?                           |
+|                - Una ensalada. No como carne.                 |                      - Sałatkę. Nie jem mięsa.                       |
+|                     - ¿Eres vegetariana?                      |                        - Jesteś wegetarianką?                        |
+|                            - Sí...                            |                               - Tak...                               |
+|                        - ¡Yo también!                         |                              - Ja też!                               |
+|                 - ¡Perfecto! ¿De dónde eres?                  |                       - Idealnie! Skąd jesteś?                       |
+| - Soy americano. Mi padre es de Cuba y mi madre es de México. | - Jestem Amerykaninem. Mój ojciec pochodzi z Kuby, a mama z Meksyku. |
+|                       - ¡Yo soy cubana!                       |                         - Ja jestem kubanką!                         |
+|            - Cuba es muy bonita. ¿Tienes mascotas?            |             Kuba jest bardzo piękna. Czy masz zwierzęta?             |
+|               - Tengo tres gatos y dos perros.                |                      - Mam trzy koty i dwa psy.                      |
+|  - ¡Qué interesante! Yo también tengo dos perros, Gabriela.   |                     - Mam też dwa psy, Gabrielo.                     |
+|          - ¿Eh? Soy Julia... Tú eres José, ¿verdad?           |            - Hej? Jestem Julia... Ty jesteś José, prawda?            |
+|               - ¡Ay, no! Mi nombre es Daniel...               |                    - O nie! Mam na imię Daniel...                    |
+|                Una mujer camina hacia Daniel.                 |                    Kobieta podchodzi do Daniela.                     |
+|             - ¡Hola! ¿Eres Daniel? Soy Gabriela.              |            - Witaj! Ty jesteś Danielem? Jestem Gabriela.             |
+|                  - No, lo siento. Soy José.                   |                   - Nie, przykro mi. Jestem Jose.                    |
 
 ### Una cosa
 
