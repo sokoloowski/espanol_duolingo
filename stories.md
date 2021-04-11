@@ -117,7 +117,26 @@ title: Español
 |                                - Ella es mi abuela.                                 |                             - Ona jest moją babcią.                             |
 |                    - ¡Guau! ¡Tengo una familia muy interesante!                     |                     - Łał! Mam bardzo interesującą rodzinę!                     |
 
-### La luna de miel
+### La luna de miel - Miesiąc miodowy
+
+|                                                 Español                                                 |                                              Polski                                              |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|                                         Lucía está en un taxi.                                          |                                      Lucia jest w taksówce.                                      |
+|                                          - Hola, buenos días.                                           |                                      - Cześć, dzień dobry.                                       |
+|                              - Hola, necesito ir al aeropuerto, por favor.                              |                            - Witam, muszę jechać na lotnisko, proszę.                            |
+|                                        - Está bien. ¿Vacaciones?                                        |                                      - W porządku. Wakacje?                                      |
+|                - No son vacaciones... Tengo un boleto para Madrid. Bueno... dos boletos.                |                   - To nie wakacje... Mam bilet do Madrytu. Cóż... dwa bilety.                   |
+|                            - ¡Madrid es mi ciudad favorita! ¡Es muy bonita!                             |                     - Madryt to moje ulubione miasto! To jest bardzo ładne!                      |
+|                                         - Es mi luna de miel...                                         |                                   - To mój miesiąc miodowy...                                    |
+|                                      - Ah. ¿Dónde está su esposo?                                       |                                   - Ach. Gdzie jest twój mąż?                                    |
+| - No tengo esposo. ¡Tengo una esposa muy difícil! Ella no quiere ir a Madrid conmigo. Estoy muy triste. | - Nie mam męża. Mam bardzo trudną żonę! Nie chce jechać ze mną do Madrytu. Jestem bardzo smutna. |
+|                          - Ah... lo siento. Bueno... estamos en el aeropuerto.                          |                          - Oh przepraszam. Cóż... jesteśmy na lotnisku.                          |
+|                          Una mujer con una maleta corre en dirección al taxi.                           |                          Kobieta z walizką biegnie w kierunku taksówki.                          |
+|                                                - ¿María?                                                |                                             - María?                                             |
+|                                 - ¡Lucía! ¡Lo siento mucho! Te quiero.                                  |                                - Lucía! Przepraszam! Kocham cię.                                 |
+|                                         - Yo también te quiero.                                         |                                        - Też cię kocham.                                         |
+|                                           - ¡Vamos a Madrid!                                            |                                      - Jedziemy do Madrytu!                                      |
+|                                    - ¡Disfruten de su luna de miel!                                     |                                   - Miłego miesiąca miodowego!                                   |
 
 ### La chaqueta roja
 
