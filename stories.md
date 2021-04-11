@@ -74,7 +74,29 @@ title: Español
 |                         - ¿Qué?                          |                      - Co?                       |
 |         - Quiero una cosa del supermercado: pan.         |    - Chcę jedną rzecz z supermarketu: chleb.     |
 
-### ¡Sorpresa!
+### ¡Sorpresa! - Niespodzianka!
+
+|                                   Español                                   |                          Polski                          |
+| :-------------------------------------------------------------------------: | :------------------------------------------------------: |
+|                Antonio está en un restaurante con su madre.                 |           Antonio jest w restauracji z matką.            |
+|                  - Una mesa para tres personas, por favor.                  |            - Poproszę stolik dla trzech osób.            |
+|                           - ¿Tres? ¿Tú, yo, y...?                           |                   - Trzy? Ty, ja i...?                   |
+|                                - Una amiga.                                 |                     - Przyjaciółka.                      |
+|                          - Ah... Mamá, necesito...                          |               - Ach... Mamo, potrzebuję...               |
+|                           - ¡Tengo una sorpresa!                            |                   - Mam niespodziankę!                   |
+|                   - Yo... yo también tengo una sorpresa.                    |            - Ja... ja też mam niespodziankę.             |
+| - Mi amiga es una estudiante de medicina muy simpática. Su nombre es Sonia. | - Moja przyjaciółka jest bardzo miłą studentką medycyny. |
+|                             - Mamá, necesito...                             |                  - Mamo, potrzebuję...                   |
+|              - ¡Y ella es muy bonita! ¡Perfecta para mi hijo!               |   - A ona jest bardzo ładna! Idealna dla mojego syna!    |
+|                     Una mujer entra en el restaurante.                      |             Do restauracji wchodzi kobieta.              |
+|                              - ¡Hola, mi amor!                              |                    - Cześć kochanie!                     |
+|                                 - ¿Mi amor?                                 |                       - Kochanie?                        |
+|                           - Hola, Carla. Mamá...                            |                  - Cześć Carla. Mamo...                  |
+|                      - ¡Y tú eres la mamá de Antonio!                       |               - A ty jesteś matką Antonio!               |
+|                                - ¿¡Antonio!?                                |                       - Antonio!?                        |
+|               - Mucho gusto, soy Carla, la esposa de Antonio.               |      - Miło cię poznać, jestem Carla, żona Antonio.      |
+|                                - ¡¿Esposa?!                                 |                         - Żona?!                         |
+|                                - ¡Sorpresa!                                 |                     - Niespodzianka!                     |
 
 ## Zestaw 2
 
