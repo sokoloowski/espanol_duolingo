@@ -159,7 +159,20 @@ title: Español
 |            - ¿Sabes cuál es el regalo perfecto para mí?            |         - Czy wiesz, jaki jest idealny prezent dla mnie?         |
 |                     - Sí, una chaqueta barata.                     |                       - Tak, tania kurtka.                       |
 
-### El examen
+### El examen - Egzamin
+
+|                                              Español                                              |                                               Polski                                               |
+| :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|                              Jorge y Lorena están en la universidad.                              |                           Jorge i Lorena są na uniwersytecie / studiach.                           |
+|                       - Hola Jorge, ¿estás listo para el examen de inglés?                        |                    - Cześć Jorge, czy jesteś gotowy do egzaminu z angielskiego?                    |
+|                                - ¿Examen? No tenemos un examen...                                 |                                  - Egzamin? Nie mamy egzaminu...                                   |
+| - Sí, tenemos un examen hoy, Jorge. Un examen muy difícil. Nunca estás listo para los exámenes... | - Tak, mamy dzisiaj egzamin, Jorge. Bardzo trudny egzamin. Nigdy nie jesteś gotowy do egzaminów... |
+|                - ¡Ay no! Y tenemos clase en dos horas... ¡Necesito estudiar ahora!                |                 - O nie! A za dwie godziny mamy zajęcia... Muszę się teraz uczyć!                  |
+|                    Dos horas después, Jorge y Lorena están en clase de inglés.                    |                Dwie godziny później Jorge i Lorena są na zajęciach z angielskiego.                 |
+|                   - ¿Están todos listos para el examen? ¡Es la próxima semana!                    |                  - Czy wszyscy są gotowi do egzaminu? Jest w przyszłym tygodniu!                   |
+|                          - No comprendo. Lorena, el examen no es hoy...                           |                        - Nie rozumiem. Lorena, egzamin nie jest dzisiaj...                         |
+|                  - Lo siento, Jorge. ¡Pero nunca estás listo para los exámenes!                   |                  - Przepraszam, Jorge. Ale nigdy nie jesteś gotowy do egzaminów!                   |
+|                            - Está bien Lorena. ¡Ahora, sí estoy listo!                            |                             - W porządku Lorena. Teraz jestem gotowy!                              |
 
 ## Zestaw 3
 
