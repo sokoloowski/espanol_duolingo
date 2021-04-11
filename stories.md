@@ -115,7 +115,7 @@ title: Español
 |                               - Ella es muy bonita...                               |                           - Ona jest bardzo piękna...                           |
 |                                - Sí, es muy bonita.                                 |                            - Tak, jest bardzo ładna.                            |
 |                                - Ella es mi abuela.                                 |                             - Ona jest moją babcią.                             |
-|                    - ¡Guau! ¡Tengo una familia muy interesante!                     |                     - Łał! Mam bardzo interesującą rodzinę!                     |
+|                    - ¡Guau! ¡Tengo una familia muy interesante!                     |                     - Wow! Mam bardzo interesującą rodzinę!                     |
 
 ### La luna de miel - Miesiąc miodowy
 
