@@ -138,7 +138,26 @@ title: Español
 |                                           - ¡Vamos a Madrid!                                            |                                      - Jedziemy do Madrytu!                                      |
 |                                    - ¡Disfruten de su luna de miel!                                     |                                   - Miłego miesiąca miodowego!                                   |
 
-### La chaqueta roja
+### La chaqueta roja - Czerwona kurtka
+
+|                              Español                               |                              Polski                              |
+| :----------------------------------------------------------------: | :--------------------------------------------------------------: |
+|     Natalia está en una tienda de ropa con su hermano, Leonel.     |   Natalia jest w sklepie odzieżowym ze swoim bratem, Leonelem.    |
+|  - La ropa de esta tienda es muy bonita, pero es demasiado cara.   |     - Ubrania w tym sklepie są bardzo ładne, ale za drogie.      |
+|   - Sí... ¡Guau! ¡Esta chaqueta roja es perfecta! Y muy cómoda.    | - Tak... Wow! Ta czerwona kurtka jest idealna! I bardzo wygodna. |
+|                             - ¿Leonel?                             |                            - Leonel?                             |
+|               - ¡Me veo muy bien con esta chaqueta!                |                - Świetnie wyglądam w tej kurtce!                 |
+|                             - ¿Leonel?                             |                            - Leonel?                             |
+|                  - ¡Quiero comprar esta chaqueta!                  |                     - Chcę kupić tę kurtkę!                      |
+|                             - ¡Leonel!                             |                            - Leonel!                             |
+|                              - ¿Qué?                               |                              - Co?                               |
+|              - La chaqueta cuesta quinientos dólares.              |                - Kurtka kosztuje pięćset dolarów.                |
+|                             - ¡¿Qué?!                              |                              - Co?!                              |
+|         - Es demasiado cara. Vamos a una tienda diferente.         |          - Jest zbyt drogia. Chodźmy do innego sklepu.           |
+| - Sí... Natalia, necesitas comprar un regalo para mi cumpleaños... |    - Tak... Natalia, musisz kupić prezent na moje urodziny...    |
+|                             - ¿Ah, sí?                             |                            - Oh, tak?                            |
+|            - ¿Sabes cuál es el regalo perfecto para mí?            |         - Czy wiesz, jaki jest idealny prezent dla mnie?         |
+|                     - Sí, una chaqueta barata.                     |                       - Tak, tania kurtka.                       |
 
 ### El examen
 
