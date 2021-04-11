@@ -53,7 +53,26 @@ title: Español
 |             - ¡Hola! ¿Eres Daniel? Soy Gabriela.              |            - Witaj! Ty jesteś Danielem? Jestem Gabriela.             |
 |                  - No, lo siento. Soy José.                   |                   - Nie, przykro mi. Jestem Jose.                    |
 
-### Una cosa
+### Una cosa - Jedna rzecz
+
+|                         Español                          |                      Polski                      |
+| :------------------------------------------------------: | :----------------------------------------------: |
+|       Bianca está en casa, con su hermano, Rafael.       |  Bianca jest w domu ze swoim bratem, Rafaelem.   |
+|        - ¡Ay, no! Necesito pan para mi sándwich.         |   - O nie! Potrzebuję chleba do mojej kanapki.   |
+|                 - ¿Vas al supermercado?                  |            - Idziesz do supermarketu?            |
+|         - Sí. Quiero comer un sándwich de queso.         |        - Tak, chcę zjeść kanapkę z serem.        |
+|    - ¡Ah, también necesito una cosa del supermercado!    | - Ach, ja też potrzebuję czegoś z supermarketu!  |
+|                         - ¿Qué?                          |                      - Co?                       |
+|       - Un tomate, por favor. Es para mi ensalada.       |    - Poproszę pomidora. To do mojej sałatki.     |
+|                       - Está bien.                       |                     - Okej.                      |
+|    - ¡Gracias! ¡Ah! Y también quiero tres manzanas...    |      - Dzięki! Ach! Chcę też trzy jabłka...      |
+|                       - Está bien.                       |                     - Okej.                      |
+|                - ...y jugo de naranja...                 |            - ...i sok pomarańczowy...            |
+|                         - Qué...                         |                     - Co...                      |
+|                 - ...y leche, por favor.                 |              - ...i mleko, proszę.               |
+| - Mmm... tengo una idea, hermanito. Aquí está el dinero. | - Mmm... mam pomysł, braciszku. Tu są pieniądze. |
+|                         - ¿Qué?                          |                      - Co?                       |
+|         - Quiero una cosa del supermercado: pan.         |    - Chcę jedną rzecz z supermarketu: chleb.     |
 
 ### ¡Sorpresa!
 
