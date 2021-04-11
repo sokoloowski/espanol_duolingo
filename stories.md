@@ -100,7 +100,22 @@ title: Español
 
 ## Zestaw 2
 
-### En el museo
+### En el museo - W muzeum
+
+|                                       Español                                       |                                     Polski                                      |
+| :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+|                       Carmen está en un museo con su abuelo.                        |                    Carmen jest w muzeum ze swoim dziadkiem.                     |
+|                     - ¡Qué interesante! ¡Hay fotos del pasado!                      |                      - Ciekawe! Są zdjęcia z przeszłości!                       |
+|                             - Sí, es Santiago de Chile.                             |                          - Tak, to Santiago de Chile.                           |
+|           - ¡No hay carros! Y aquí, una foto de estudiantes de medicina.            |              - Nie ma samochodów! A tu zdjęcie studentów medycyny.              |
+|                          - Sí, es la Universidad de Chile.                          |                          - Tak, to Uniwersytet Chile.                           |
+| - ¡Hay una mujer en la foto! Solo una mujer... ¡Qué inteligente! ¡Y qué importante! | - Na zdjęciu jest kobieta! Tylko jedna kobieta... Jak mądrze! I jakie to ważne! |
+|                     El abuelo de Carmen mira la foto. No habla.                     |                   Dziadek Carmen patrzy na zdjęcie. Nie mówi.                   |
+|                                     - ¿Abuelo?                                      |                                   - Dziadku?                                    |
+|                               - Ella es muy bonita...                               |                           - Ona jest bardzo piękna...                           |
+|                                - Sí, es muy bonita.                                 |                            - Tak, jest bardzo ładna.                            |
+|                                - Ella es mi abuela.                                 |                             - Ona jest moją babcią.                             |
+|                    - ¡Guau! ¡Tengo una familia muy interesante!                     |                     - Łał! Mam bardzo interesującą rodzinę!                     |
 
 ### La luna de miel
 
