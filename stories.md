@@ -235,7 +235,22 @@ title: Español
 | - ¿Su tienda favorita?                                  | - W twoim ulubionym sklepie?                        |
 | - ¡Sí, esta tienda!                                     | - Tak, w tym sklepie!                               |
 
-### El pasaporte
+### El pasaporte - Paszport
+
+| Español                                                                   | Polski                                                                     |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
+| Vikram y su esposa, Priti, están en el aeropuerto.                        | Vikram i jego żona, Priti, są na lotnisku.                                 |
+| - ¡Ay, no! ¿Dónde está mi pasaporte? ¡No está aquí!                       | - O nie! Gdzie jest mój paszport? Nie ma go tu!                            |
+| - Vikram…                                                                 | - Vikram...                                                                |
+| - No está en mi cartera… Y no está en mi chaqueta.                        | - Nie ma go w mojej torbie... I nie ma go w mojej kurtce.                  |
+| - Vik…                                                                    | - Vik...                                                                   |
+| - ¡Está en el taxi!                                                       | - Jest w taksówce!                                                         |
+| Vikram corre a buscar su taxi.                                            | Vikram biegnie popatrzeć za swoją taksówką.                                |
+| - ¡Vik, no!                                                               | - Vik, nie!                                                                |
+| Priti corre detrás de Vikram.                                             | Priti biegnie za Vikramem.                                                 |
+| - ¡Ay, no! ¡El taxi no está aquí! ¡No es posible!                         | - O nie! Taksówki nie ma! To nie jest możliwe!                             |
+| - ¡Vikram! Tu pasaporte no está en el taxi. El pasaporte está en tu mano. | - Vikram! Twój paszport nie jest w taksówce. Paszport jest w twojej dłoni. |
+| - Ah... Gracias, mi amor.                                                 | - Ach... Dziękuję, kochanie.                                               |
 
 ## Zestaw 4
 
