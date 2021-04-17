@@ -176,7 +176,27 @@ title: Español
 
 ## Zestaw 3
 
-### Un poco de dinero
+### Un poco de dinero - Trochę pieniędzy
+
+| Español                                              | Polski                                                        |
+| :--------------------------------------------------- | :------------------------------------------------------------ |
+| - Mamá, necesito dinero.                             | - Mamo, potrzebuję pieniędzy.                                 |
+| - ¿Para qué?                                         | - Po co?                                                      |
+| - Para ir al cine.                                   | - Żeby pójść do kina.                                         |
+| - Necesitas estudiar para tu examen.                 | - Musisz się uczyć do egzaminu.                               |
+| - ¡Ay no!                                            | - O nie!                                                      |
+| - Y necesitas comprar comida para el perro.          | - I musisz kupić jedzenie dla psa.                            |
+| - ¡Mamá! ¡Por favor!                                 | - Mamo! Proszę!                                               |
+| La madre de Juan saca dinero de su cartera.          | Matka Juana wyciąga pieniądze z portfela.                     |
+| - Aquí tienes.                                       | - Masz.                                                       |
+| - Mamá, necesito más dinero...                       | - Mamo, potrzebuję więcej pieniędzy...                        |
+| - Es suficiente para el autobús a la biblioteca.     | - Wystarczy na autobus do biblioteki.                         |
+| - Pero mamá, la película...                          | -Ale mamo, film...                                            |
+| - Ah, está bien... Esto es para la comida del perro. | - Ach, ok... To na karmę dla psów.                            |
+| - Gracias, mamá... Ahh... ¿Puedo usar tu carro?      | - Dzięki, mamo... Ach... Mogę skorzystać z twojego samochodu? |
+| - No, necesito mi carro.                             | - Nie, potrzebuję mojego samochodu.                           |
+| - ¿Para qué?                                         | - Po co?                                                      |
+| - ¡Para ir al cine!                                  | - Żeby pójść do kina!                                         |
 
 ### Sábado por la noche
 
