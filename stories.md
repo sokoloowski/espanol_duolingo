@@ -216,7 +216,24 @@ title: Español
 | - ¡Sorpresa!                                                                                                   | - Niespodzianka!                                                                                     |
 | - ¡Eres muy buena con la guitarra!                                                                             | - Bardzo dobrze grasz na gitarze!                                                                    |
 
-### La tienda
+### La tienda - Sklep
+
+| Español                                                 | Polski                                              |
+| :------------------------------------------------------ | :-------------------------------------------------- |
+| - ¡Buenos días!                                         | - Dzień dobry!                                      |
+| - ¡Hola!                                                | - Cześć!                                            |
+| - ¿Necesita ayuda?                                      | - Potrzebujesz pomocy?                              |
+| - ¡Sí, por favor! Necesito ropa nueva.                  | - Tak, proszę! Potrzebuję nowych ubrań.             |
+| - ¿Qué necesita? Tenemos camisas, chaquetas...          | - Czego potrzebujesz? Mamy koszule, kurtki...       |
+| - Necesito una chaqueta nueva. ¡Me gusta esta chaqueta! | - Potrzebuję nowej kurtki. Podoba mi się ta kurtka! |
+| - Sí, es muy bonita.                                    | - Tak, jest bardzo ładna.                           |
+| - Y necesito una camisa nueva.                          | - I potrzebuję nowej koszuli.                       |
+| - ¡Perfecto! ¿Para qué necesita ropa nueva?             | - Idealnie! Dlaczego potrzebujesz nowych ubrań?     |
+| - Para una entrevista.                                  | - Na rozmowę kwalifikacyjną.                        |
+| - ¿Dónde es la entrevista?                              | - Gdzie jest (ta) rozmowa kwalifikacyjna?           |
+| - ¡En mi tienda favorita!                               | - W moim ulubionym sklepie!                         |
+| - ¿Su tienda favorita?                                  | - W twoim ulubionym sklepie?                        |
+| - ¡Sí, esta tienda!                                     | - Tak, w tym sklepie!                               |
 
 ### El pasaporte
 
