@@ -198,7 +198,23 @@ title: Español
 | - ¿Para qué?                                         | - Po co?                                                      |
 | - ¡Para ir al cine!                                  | - Żeby pójść do kina!                                         |
 
-### Sábado por la noche
+### Sábado por la noche - Sobotnia noc
+
+| Español                                                                                                        | Polski                                                                                               |
+| :------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| Victoria habla con su amigo, Pablo, en el trabajo.                                                             | Victoria rozmawia z przyjacielem, Pablo, w pracy.                                                    |
+| - ¡Hola Pablo! ¿Tienes planes para el fin de semana?                                                           | - Cześć, Pablo! Masz plany na weekend?                                                               |
+| - Tengo un boleto para un concierto el sábado. Es un nuevo grupo de música: Las Hermanas. ¿Quieres ir conmigo? | - Mam bilet na koncert w sobotę. To nowy zespół muzyczny: Las Hermanas. Czy chciałabyś pójść ze mną? |
+| - Ahh...                                                                                                       | - Ach...                                                                                             |
+| - ¿Tienes planes para el fin de semana?                                                                        | - Masz plany na weekend?                                                                             |
+| - Ahh... ¡Sí! Un partido de fútbol el sábado.                                                                  | - Ach... Tak! Mecz piłki nożnej w sobotę.                                                            |
+| - ¡Qué divertido! ¡Disfruta el partido!                                                                        | - Co za zabawa! Ciesz się z gry!                                                                     |
+| El sábado en la noche, Pablo está en el concierto. El concierto comienza.                                      | W sobotni wieczór Pablo jest na koncercie. Rozpoczyna się koncert.                                   |
+| - La chica con la guitarra... ¿Es... Victoria?                                                                 | - Dziewczyna z gitarą... Czy to... Victoria?                                                         |
+| Al final del concierto, Pablo habla con Victoria.                                                              | Pod koniec koncertu Pablo rozmawia z Victorią.                                                       |
+| - Un partido de fútbol, ¿eh?                                                                                   | - Mecz piłki nożnej, co?                                                                             |
+| - ¡Sorpresa!                                                                                                   | - Niespodzianka!                                                                                     |
+| - ¡Eres muy buena con la guitarra!                                                                             | - Bardzo dobrze grasz na gitarze!                                                                    |
 
 ### La tienda
 
