@@ -380,7 +380,25 @@ title: Español
 | Lin abre la puerta del taxi.                                                            | Lin otwiera drzwi taksówki.                                                           |
 | - ¡Buenas noches, Óscar!                                                                | - Dobranoc, Óscar!                                                                    |
 
-### El vegetariano
+### El vegetariano - Wegetarianin
+
+| Español                                                            | Polski                                                                   |
+| :----------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| Vikram lee el menú en un restaurante muy bonito.                   | Vikram czyta menu w bardzo ładnej restauracji.                           |
+| - ¡Buenos días!                                                    | - Dzień dobry!                                                           |
+| - Tengo una pregunta. Soy vegetariano. ¿Tienen comida vegetariana? | - Mam pytanie. Jestem wegetarianinem. Czy macie jedzenie wegetariańskie? |
+| - Sí, tenemos unos sándwiches de carne muy buenos.                 | - Tak, mamy bardzo dobre kanapki z mięsem.                               |
+| - ¿Sándwiches de carne? Soy vegetariano.                           | - Kanapki z mięsem? Jestem wegetarianinem.                               |
+| - Ah, sí... lo siento. Tenemos un pollo delicioso.                 | - O, tak... przepraszam. Mamy pysznego kurczaka.                         |
+| - El pollo es carne. ¡Y yo no como carne!                          | - Kurczak to mięso. I nie jem mięsa!                                     |
+| - Tenemos ensaladas...                                             | - Mamy sałatki...                                                        |
+| - ¡Ah, me gustan las ensaladas!                                    | - Ach, lubię sałatki!                                                    |
+| - Hay una ensalada de tomate, queso, salmón...                     | - Jest sałatka z pomidorów, sera, łososia...                             |
+| - ¡Yo no como salmón! ¡Soy vegetariano!                            | - Nie jem łososia! Jestem wegetarianinem!                                |
+| - Tenemos patatas fritas...                                        | - Mamy frytki ...                                                        |
+| - Está bien, patatas fritas.                                       | - W porządku, frytki.                                                    |
+| - Patatas fritas... perfecto. Y... ¿una hamburguesa?               | - Frytki... idealnie. I... hamburger?                                    |
+| - ¡No como carne!                                                  | - Nie jem mięsa!                                                         |
 
 ### Más espacio
 
