@@ -400,7 +400,29 @@ title: Español
 | - Patatas fritas... perfecto. Y... ¿una hamburguesa?               | - Frytki... idealnie. I... hamburger?                                    |
 | - ¡No como carne!                                                  | - Nie jem mięsa!                                                         |
 
-### Más espacio
+### Más espacio - Więcej miejsca
+
+| Español                                                                               | Polski                                                                                  |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------- |
+| Sergio, un amigo de Junior, habla con su papá.                                        | Sergio, przyjaciel Juniora, rozmawia z tatą.                                            |
+| - Yo necesito un trabajo, papá.                                                       | - Potrzebuję pracy, tato.                                                               |
+| - Sergio, tú tienes ocho años. No necesitas un trabajo.                               | - Sergio, masz osiem lat. Nie potrzebujesz pracy.                                       |
+| - Nosotros necesitamos más dinero.                                                    | - Potrzebujemy więcej pieniędzy.                                                        |
+| - Tenemos dinero, Sergio.                                                             | - Mamy pieniądze, Sergio.                                                               |
+| - Necesitamos más dinero para comprar una casa nueva. Esta casa es demasiado pequeña. | - Potrzebujemy więcej pieniędzy, żeby kupić nowy dom. Ten dom jest za mały.             |
+| - ¡Sergio! ¡Esta casa no es pequeña!                                                  | - Sergio! Ten dom nie jest mały!                                                        |
+| - Y necesitamos un carro nuevo.                                                       | - Potrzebujemy nowego samochodu.                                                        |
+| - ¿Por qué?                                                                           | - Dlaczego?                                                                             |
+| - Porque es muy pequeño.                                                              | - Ponieważ jest za mały.                                                                |
+| - Sergio...                                                                           | - Sergio...                                                                             |
+| - Necesitamos más espacio.                                                            | - Potrzebujemy więcej miejsca.                                                          |
+| - ¿Más espacio?                                                                       | - Więcej miejsca?                                                                       |
+| - ¡Necesitamos espacio para el bebé, papá!                                            | - Potrzebujemy miejsca dla dziecka, tato!                                               |
+| - ¿Qué bebé?                                                                          | - Jakiego dziecka?                                                                      |
+| - El nuevo bebé de mamá.                                                              | - Nowego dziecka mamy.                                                                  |
+| - ¿Mamá?! ¡¿Un bebé?!                                                                 | - Mama?! Dziecko?!                                                                      |
+| - ¿Estás bien, papá?                                                                  | - W porządku, tato?                                                                     |
+| - ¡Necesitamos una casa nueva y un carro nuevo! Y sí, ¡necesitamos mucho más espacio! | - Potrzebujemy nowego domu i nowego samochodu! I tak, potrzebujemy dużo więcej miejsca! |
 
 ## Zestaw 6
 
