@@ -473,7 +473,25 @@ title: Español
 | - El día es importante. El restaurante, no.                                                                         | - Dzień jest ważny. Restauracja, nie.                                                       |
 | - Perfecto, porque... ¡yo tengo mucha hambre!                                                                       | - Świetnie, bo... Jestem bardzo głodna!                                                     |
 
-### El perro
+### El perro - Pies
+
+| Español                                                                | Polski                                                             |
+| :--------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| Eddy y Junior comen en el parque.                                      | Eddy i Junior jedzą w parku.                                       |
+| - Papá, quiero un perro.                                               | - Tato, chcę psa.                                                  |
+| - Junior, tener un perro no es fácil. Un perro necesita caminar mucho. | - Junior, posiadanie psa nie jest łatwe. Pies musi dużo chodzić.   |
+| - ¡Yo también!                                                         | - Ja również!                                                      |
+| - Un perro necesita jugar mucho.                                       | - Pies musi dużo się bawić.                                        |
+| - ¡Yo también!                                                         | - Ja również!                                                      |
+| - Y la comida para perros es cara.                                     | - A karma dla psów jest droga.                                     |
+| - ¡El perro puede comer mi comida!                                     | - Pies może jeść moje jedzenie!                                    |
+| - Junior, ¿dónde está tu hamburguesa? Y... ¿dónde está tu manzana?     | - Junior, gdzie jest twój hamburger? I... gdzie jest twoje jabłko? |
+| - Eh...                                                                | - Ech...                                                           |
+| Hay un perro debajo de la mesa.                                        | Pod stołem jest pies.                                              |
+| - ¿Junior? ¿Por qué hay un perro debajo de la mesa?                    | - Junior? Dlaczego pod stołem jest pies?                           |
+| - ¡Es mi amigo!                                                        | - On jest moim przyjacielem!                                       |
+| - ¿El perro tiene tu hamburguesa?                                      | - Czy pies ma twojego hamburgera?                                  |
+| - Sí... Tener un perro es muy fácil, papá.                             | - Tak... Posiadanie psa jest bardzo łatwe, tato.                   |
 
 ### ¿Qué necesita?
 
