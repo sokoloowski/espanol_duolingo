@@ -449,7 +449,29 @@ title: Español
 | - ¡Gracias! ¡Estoy lista para mis vacaciones!             | - Dzięki! Jestem gotowa na wakacje!                |
 | - Ahora yo necesito vacaciones.                           | - Teraz ja potrzebuję wakacji.                     |
 
-### La reserva
+### La reserva - Rezerwacja
+
+| Español                                                                                                             | Polski                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------ |
+| Bea y Lin van a un restaurante.                                                                                     | Bea i Lin idą do restauracji.                                                               |
+| - ¡Este restaurante es muy bonito!                                                                                  | - Ta restauracja jest bardzo ładna!                                                         |
+| - ¡Feliz cumpleaños, Bea!                                                                                           | - Wszystkiego najlepszego (z okazji urodzin), Bea!                                          |
+| - ¡Buenos días!                                                                                                     | - Dzień dobry!                                                                              |
+| - Buenos días. Tengo una reserva para dos personas.                                                                 | - Dzień dobry. Mam rezerwację dla dwóch osób.                                               |
+| - ¿Nombre?                                                                                                          | - Imię?                                                                                     |
+| - Mi nombre es Lin.                                                                                                 | - Nazywam się Lin.                                                                          |
+| - Ah, sí. Aquí está su mesa. Y este es el menú.                                                                     | - O, tak. Oto wasz stolik. A to jest menu.                                                  |
+| - Ah...                                                                                                             | - Ach...                                                                                    |
+| - Es muy caro, Lin.                                                                                                 | - Jest bardzo drogo, Lin.                                                                   |
+| - Sí...                                                                                                             | - Tak...                                                                                    |
+| - ¿Tú qué quieres?                                                                                                  | - Co chcesz?                                                                                |
+| - Mmm... una... ¿ensalada? ¡¿Qué?! ¡¿Veinticinco dólares por una ensalada?! Yo quiero un delicioso... vaso de agua. | - Mmm... sałatkę? Co?! Dwadzieścia pięć dolarów za sałatkę?! Chcę pysznej... szklanki wody. |
+| - ¡Yo quiero una ensalada! ¡Y una hamburguesa muy grande! ¡Y un jugo de naranja!                                    | - Chcę sałatkę! I bardzo dużego hamburgera! I sok pomarańczowy!                             |
+| - Ah...                                                                                                             | - Ach...                                                                                    |
+| - ¡En un restaurante barato!                                                                                        | - W taniej restauracji!                                                                     |
+| - Bea, es un día importante...                                                                                      | - Bea, to ważny dzień...                                                                    |
+| - El día es importante. El restaurante, no.                                                                         | - Dzień jest ważny. Restauracja, nie.                                                       |
+| - Perfecto, porque... ¡yo tengo mucha hambre!                                                                       | - Świetnie, bo... Jestem bardzo głodna!                                                     |
 
 ### El perro
 
