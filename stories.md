@@ -352,7 +352,33 @@ title: Español
 | - ¡Adiós, papá!                                                                                                   | - Do widzenia tato!                                                                                  |
 | - Lo siento, Junior. ¡Es un partido muy bueno! ¿Junior? ¿Qué necesitas? ¿Junior? ¿Dónde estás?                    | - Przepraszam, Junior. To bardzo dobra gra! Junior? Czego potrzebujesz? Junior? Gdzie jesteś?        |
 
-### ¡A la estación!
+### ¡A la estación! - Na stację!
+
+| Español                                                                                 | Polski                                                                                |
+| :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| Óscar toma un taxi. Su amiga, Lin, maneja el taxi.                                      | Óscar bierze taksówkę. Jej przyjaciółka Lin prowadzi taksówkę.                        |
+| - ¡Lin! ¿Manejas taxis?                                                                 | - Lin! Prowadzisz taksówki?                                                           |
+| - ¡Sí! ¡Es mi nuevo trabajo! ¿A dónde quieres ir?                                       | - Tak! To moja nowa praca! Gdzie chcesz jechać?                                       |
+| - ¡A la estación, por favor!                                                            | - Na stację, proszę!                                                                  |
+| - ¿Dónde está la estación?                                                              | - Gdzie jest stacja?                                                                  |
+| - No sé.                                                                                | - Nie wiem.                                                                           |
+| - Está bien...                                                                          | - W porządku...                                                                       |
+| Lin empieza a manejar.                                                                  | Lin zaczyna jechać.                                                                   |
+| - ¡Aquí estamos!                                                                        | - Jesteśmy!                                                                           |
+| - Lin... esta no es la estación. Esta es la universidad.                                | - Lin... to nie jest stacja. To jest uniwersytet.                                     |
+| - Ah...                                                                                 | - Ach...                                                                              |
+| Lin empieza a manejar.                                                                  | Lin zaczyna jechać.                                                                   |
+| - ¡Aquí estamos!                                                                        | - Jesteśmy!                                                                           |
+| - Lin...                                                                                | - Lin...                                                                              |
+| - ¿Sí?                                                                                  | - Tak?                                                                                |
+| - Este es el hospital.                                                                  | - To jest szpital.                                                                    |
+| - Ah...                                                                                 | - Ach...                                                                              |
+| Lin empieza a manejar... otra vez.                                                      | Lin zaczyna jechać... znowu.                                                          |
+| - ¡Aquí estamos, Óscar!                                                                 | - Jesteśmy, Óscar!                                                                    |
+| - Lin, esta no es la estación...                                                        | - Lin, to nie jest stacja...                                                          |
+| - Yo sé, este es mi apartamento. Yo no quiero manejar taxis. Es un trabajo muy difícil. | - Wiem, to jest moje mieszkanie. Nie chcę prowadzić taksówek. To bardzo trudna praca. |
+| Lin abre la puerta del taxi.                                                            | Lin otwiera drzwi taksówki.                                                           |
+| - ¡Buenas noches, Óscar!                                                                | - Dobranoc, Óscar!                                                                    |
 
 ### El vegetariano
 
