@@ -293,7 +293,22 @@ title: Español
 | - Está bien. ¡Quiero el abrigo rojo! ¡Gracias! ¡Usted es muy bueno en su trabajo! ¿Y para pagar?                   | - W porządku. Chcę czerwony płaszcz! Dziękuję! Jest pan bardzo dobry w swojej pracy! A zapłacić?                       |
 | - Yo no sé. Yo no trabajo aquí.                                                                                    | - Nie wiem. Nie pracuję tutaj.                                                                                         |
 
-### El doctor Eddy
+### El doctor Eddy - Doktor Eddy
+
+| Español                                                                                                                                           | Polski                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| Eddy está en el supermercado. Una mujer habla con él.                                                                                             | Eddy jest w supermarkecie. Kobieta z nim rozmawia.                                                                                          |
+| - ¡Hola!                                                                                                                                          | - Cześć!                                                                                                                                    |
+| - Ah, ¡hola!                                                                                                                                      | - Witam!                                                                                                                                    |
+| - ¿Eres doctor?                                                                                                                                   | - Jesteś lekarzem?                                                                                                                          |
+| - ¿Yo? ¿Doctor? Ah... Sí. Yo... soy doctor.                                                                                                       | - Ja? Lekarzem? Ach... tak, ja... jestem lekarzem.                                                                                          |
+| - ¡Qué bueno!                                                                                                                                     | - Doskonale!                                                                                                                                |
+| Eddy no es doctor.                                                                                                                                | Eddy nie jest lekarzem.                                                                                                                     |
+| - Tengo mucho dinero. Vivo en una casa muy grande. Tengo... pantalones muy caros.                                                                 | - Mam dużo pieniędzy. Mieszkam w bardzo dużym domu. Mam... bardzo drogie spodnie.                                                           |
+| - Está bien, pero... ¡Ese hombre necesita un doctor, ahora! ¡Está cerca de la leche! ¡Por favor, ese hombre necesita su ayuda! ¡Está muy enfermo! | - Dobra, ale... Ten człowiek potrzebuje teraz lekarza! Jest blisko mleka! Proszę, ten człowiek potrzebuje twojej pomocy! Jest bardzo chory! |
+| - ¡Ay, no!                                                                                                                                        | - O nie!                                                                                                                                    |
+| Eddy ve a una mujer y habla con ella.                                                                                                             | Eddy widzi kobietę i mówi do niej.                                                                                                          |
+| - Hola, ¿eres doctora?                                                                                                                            | - Cześć, jesteś lekarzem?                                                                                                                   |
 
 ### El nuevo estudiante
 
