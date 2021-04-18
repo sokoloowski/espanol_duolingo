@@ -426,7 +426,28 @@ title: Español
 
 ## Zestaw 6
 
-### Ropa para mis vacaciones
+### Ropa para mis vacaciones - Ubrania na moje wakacje
+
+| Español                                                   | Polski                                             |
+| :-------------------------------------------------------- | :------------------------------------------------- |
+| Lucy está en una tienda.                                  | Lucy jest w sklepie.                               |
+| - Hola, ¿necesita ayuda?                                  | - Cześć, potrzebujesz pomocy?                      |
+| - Sí, necesito ropa para mis vacaciones.                  | - Tak, potrzebuję ubrań na wakacje.                |
+| - Está bien.                                              | - W porządku.                                      |
+| - Necesito un vestido.                                    | - Potrzebuję sukienki.                             |
+| Lily busca un vestido verde.                              | Lily szuka zielonej sukienki.                      |
+| - ¡No, yo quiero un vestido rojo!                         | - Nie, chcę czerwoną sukienkę!                     |
+| Lily busca un vestido rojo.                               | Lily szuka czerwonej sukienki.                     |
+| - Y quiero una chaqueta.                                  | - I chcę kurtkę.                                   |
+| Lily busca una chaqueta roja.                             | Lily szuka czerwonej kurtki.                       |
+| - ¡No, yo quiero una chaqueta marrón!                     | - Nie, chcę brązową kurtkę!                        |
+| - Está bien...                                            | - W porządku...                                    |
+| - Un vestido rojo, una chaqueta marrón... ¡Y un sombrero! | - Czerwona sukienka, brązowa kurtka... I kapelusz! |
+| Lily busca un sombrero azul.                              | Lily szuka niebieskiego kapelusza.                 |
+| - ¡No, yo quiero un sombrero gris!                        | - Nie, chcę szary kapelusz!                        |
+| Lily busca un sombrero gris.                              | Lily szuka szarego kapelusza.                      |
+| - ¡Gracias! ¡Estoy lista para mis vacaciones!             | - Dzięki! Jestem gotowa na wakacje!                |
+| - Ahora yo necesito vacaciones.                           | - Teraz ja potrzebuję wakacji.                     |
 
 ### La reserva
 
