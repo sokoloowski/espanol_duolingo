@@ -275,7 +275,23 @@ title: Español
 | - ¡Perdón! Ahora, tengo dos hijas... ¡Bienvenida a la familia, Salma! | - Wybacz! Teraz mam dwie córki... Witaj w rodzinie, Salmo!           |
 | - ¡Gracias!                                                           | - Dziękuję!                                                          |
 
-### Un abrigo nueva
+### Un abrigo nueva - Nowy płaszcz
+
+| Español                                                                                                            | Polski                                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Vikram está en una tienda. Una mujer habla con él.                                                                 | Vikram jest w sklepie. Kobieta z nim rozmawia.                                                                         |
+| - ¡Buenos días!                                                                                                    | - Dzień dobry!                                                                                                         |
+| - Buenos días.                                                                                                     | - Dzień dobry.                                                                                                         |
+| - ¿Usted trabaja aquí?                                                                                             | - Pan tutaj pracuje?                                                                                                   |
+| - Yo...                                                                                                            | - Ja...                                                                                                                |
+| - ¡Perfecto! Necesito ayuda.                                                                                       | - Idealnie! Potrzebuję pomocy.                                                                                         |
+| - Pero...                                                                                                          | - Ale...                                                                                                               |
+| - Necesito un abrigo nuevo. ¿Le gusta el rojo?                                                                     | - Potrzebuję nowego płaszcza. Lubisz czerwony?                                                                         |
+| - Usted...                                                                                                         | - Proszę pani...                                                                                                       |
+| - ¿O le gusta más el marrón?                                                                                       | - Czy bardziej lubisz brązowy?                                                                                         |
+| - Mmm... El abrigo marrón es cómodo y barato. Pero el rojo es muy bonito. ¡Y es elegante! ¡Es perfecto para usted! | - Hmm... Brązowy płaszcz jest wygodny i tani. Ale czerwony jest bardzo ładny. I jest elegancki! Jest dla pani idealny! |
+| - Está bien. ¡Quiero el abrigo rojo! ¡Gracias! ¡Usted es muy bueno en su trabajo! ¿Y para pagar?                   | - W porządku. Chcę czerwony płaszcz! Dziękuję! Jest pan bardzo dobry w swojej pracy! A zapłacić?                       |
+| - Yo no sé. Yo no trabajo aquí.                                                                                    | - Nie wiem. Nie pracuję tutaj.                                                                                         |
 
 ### El doctor Eddy
 
