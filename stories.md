@@ -254,7 +254,26 @@ title: Español
 
 ## Zestaw 4
 
-### Una familia muy grande
+### Una familia muy grande - Bardzo duża rodzina
+
+| Español                                                               | Polski                                                               |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| Salma va a conocer a la familia de Ana.                               | Salma spotka się z rodziną Any.                                      |
+| - ¡Ana! ¡Mi hija favorita!                                            | - Ana! Moja ulubiona córka!                                          |
+| - Jajaja... ¡Mamá, tú solo tienes una hija! Esta es mi novia, Salma.  | - Hahaha... Mamo, masz tylko jedną córkę! To moja dziewczyna, Salma. |
+| - ¡Buenos días!                                                       | - Dzień dobry!                                                       |
+| - ¡Salma, este es mi hermano, Tomás!                                  | - Salma, to jest mój brat, Tomás!                                    |
+| - ¡Hola!                                                              | - Cześć!                                                             |
+| - Y este es mi abuelo.                                                | - A to mój dziadek.                                                  |
+| - Buenos...                                                           | - Dzień dobry...                                                     |
+| - ¡Este es mi padre, y este es mi hermano, Julio!                     | - To jest mój ojciec, a to mój brat, Julio!                          |
+| - ¡Buenos días! ¡Hola!                                                | - Dzień dobry! Witaj!                                                |
+| - Este es mi hermano, Mario, y mi hermano, Javier.                    | - To jest mój brat, Mario, i mój brat, Javier.                       |
+| - Hola, Mario. Hola, Javier. ¡Tienes una familia muy grande!          | - Cześć Mario. Cześć Javier. Masz bardzo dużą rodzinę!               |
+| - Pero yo solo tengo una hija...                                      | - Ale mam tylko jedną córkę...                                       |
+| - ¡Mamá!                                                              | - Mamo!                                                              |
+| - ¡Perdón! Ahora, tengo dos hijas... ¡Bienvenida a la familia, Salma! | - Wybacz! Teraz mam dwie córki... Witaj w rodzinie, Salmo!           |
+| - ¡Gracias!                                                           | - Dziękuję!                                                          |
 
 ### Un abrigo nueva
 
