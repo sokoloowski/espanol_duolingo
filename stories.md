@@ -310,7 +310,26 @@ title: Español
 | Eddy ve a una mujer y habla con ella.                                                                                                             | Eddy widzi kobietę i mówi do niej.                                                                                                          |
 | - Hola, ¿eres doctora?                                                                                                                            | - Cześć, jesteś lekarzem?                                                                                                                   |
 
-### El nuevo estudiante
+### El nuevo estudiante - Nowy uczeń
+
+| Español                                                                           | Polski                                                                    |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| Zari y Lily están en el autobús.                                                  | Zari i Lily są w autobusie.                                               |
+| - ¡Lily, hay un nuevo estudiante en nuestra clase! Su nombre es Miguel.           | - Lily, jest nowy uczeń w naszej klasie! Nazywa się Miguel.               |
+| - ¿Miguel?                                                                        | - Miguel?                                                                 |
+| - Sí, es de México. ¡Su padre escribe libros!                                     | - Tak, jest z Meksyku. Jego ojciec pisze książki!                         |
+| - Muy interesante.                                                                | - Bardzo interesujące.                                                    |
+| - Habla español, inglés y portugués.                                              | - Zna język hiszpański, angielski i portugalski.                          |
+| - Ah, es inteligente.                                                             | - Ach, jest mądry.                                                        |
+| - Inteligente... y alto. Y tiene muy bonitos...                                   | - Mądry... i wysoki. I ma bardzo ładne...                                 |
+| - Jaja, ¿sí?                                                                      | - Haha, tak?                                                              |
+| - Mmm... Muy bonitos zapatos.                                                     | - Mmm... Bardzo ładne buty.                                               |
+| - Zari, Miguel está detrás de ti.                                                 | - Zari, Miguel jest za tobą.                                              |
+| - ¡¿Qué?!                                                                         | - Co?!                                                                    |
+| - ¡Hola, Miguel!                                                                  | - Cześć, Miguel!                                                          |
+| - ¡Hola, Lily! ¿Cómo estás?                                                       | - Cześć, Lily! Jak się masz?                                              |
+| - Bien, gracias. Miguel, esta es mi amiga, Zari. A ella le gustan tus... zapatos. | - Dobrze, dzięki. Miguel, to moja przyjaciółka, Zari. Lubi twoje... buty. |
+| - Ah, mmm, hola... Miguel.                                                        | - Ah, mmm, cześć... Miguel.                                               |
 
 ## Zestaw 5
 
