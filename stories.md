@@ -493,7 +493,21 @@ title: Español
 | - ¿El perro tiene tu hamburguesa?                                      | - Czy pies ma twojego hamburgera?                                  |
 | - Sí... Tener un perro es muy fácil, papá.                             | - Tak... Posiadanie psa jest bardzo łatwe, tato.                   |
 
-### ¿Qué necesita?
+### ¿Qué necesita? - Czego potrzebujesz?
+
+| Español                                                                                   | Polski                                                                              |
+| :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| Óscar está en una tienda de ropa. Él ve a Zari, su estudiante. Ella trabaja en la tienda. | Oscar jest w sklepie odzieżowym. Widzi Zari, swoją uczennicę. Pracuje w sklepie.    |
+| - ¡Zari! ¡Estoy feliz de verte!                                                           | - Zari! Cieszę się że cię widzę!                                                    |
+| - ¡Buenos días! ¿Necesita ayuda?                                                          | - Dzień dobry! Potrzebujesz pomocy?                                                 |
+| - ¡Sí, gracias! Necesito...                                                               | - Tak, dziękuję! Potrzebuję...                                                      |
+| - ¡Ah, yo sé! ¡Usted necesita una chaqueta nueva!                                         | - Ach, wiem! Potrzebuje pan nowej kurtki!                                           |
+| Zari toma una chaqueta.                                                                   | Zari bierze kurtkę.                                                                 |
+| - No, Zari, yo no necesito una chaqueta.                                                  | - Nie, Zari, nie potrzebuję kurtki.                                                 |
+| - ¡Ah! ¡Necesita una camisa nueva! ¡La verde es perfecta!                                 | - Ach! Potrzebujesz nowej koszuli! Zielona jest idealna!                            |
+| - No, Zari, por favor... No necesito una camisa. No necesito una chaqueta. Yo necesito... | - Nie, Zari, proszę... Nie potrzebuję koszuli. Nie potrzebuję kurtki. Potrzebuję... |
+| - ¡Un sombrero! ¡Necesita un sombrero!                                                    | - Czapka! Potrzebujesz czapki!                                                      |
+| - ¡No! ¡No necesito ropa! Yo necesito saber... ¿Dónde está el baño?                       | - Nie! Nie potrzebuję ubrań! Muszę wiedzieć... Gdzie jest łazienka?                 |
 
 ## Zestaw 7
 
