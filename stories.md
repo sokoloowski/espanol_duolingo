@@ -333,7 +333,24 @@ title: Español
 
 ## Zestaw 5
 
-### Una pregunta
+### Una pregunta - Pytanie
+
+| Español                                                                                                           | Polski                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| - Papá, tengo una pregunta.                                                                                       | - Tato, mam pytanie.                                                                                 |
+| - Lo siento, Junior, estoy ocupado. Hay un partido de fútbol importante en la televisión. ¡Vamos! ¡Vamos! ¡Vamos! | - Przepraszam, Junior, jestem zajęty. W telewizji jest ważny mecz piłki nożnej. Dalej! Dalej! Dalej! |
+| - Pero necesito dinero.                                                                                           | - Ale potrzebuję pieniędzy.                                                                          |
+| - ¡Sí!                                                                                                            | - Tak!                                                                                               |
+| - ¿De verdad? Necesito dinero para una pizza.                                                                     | - Naprawdę? Potrzebuję pieniędzy na pizzę.                                                           |
+| - ¡Vamos! ¡Vamos! ¡Vamos!                                                                                         | - Dalej! Dalej! Dalej!                                                                               |
+| - Y quiero un videojuego nuevo.                                                                                   | - I chcę nową grę wideo.                                                                             |
+| - ¡Sí!                                                                                                            | - Tak!                                                                                               |
+| - Y mañana no voy a la escuela.                                                                                   | - I nie idę jutro do szkoły.                                                                         |
+| - ¡Sí! ¡Perfecto!                                                                                                 | - Tak! Idealnie!                                                                                     |
+| - ¡Guau, qué fácil! ¡Voy a la tienda!                                                                             | - Wow, jak łatwo! Idę do sklepu!                                                                     |
+| - ¡Sí! ¡Sí! ¡Sí!                                                                                                  | - Tak! Tak! Tak!                                                                                     |
+| - ¡Adiós, papá!                                                                                                   | - Do widzenia tato!                                                                                  |
+| - Lo siento, Junior. ¡Es un partido muy bueno! ¿Junior? ¿Qué necesitas? ¿Junior? ¿Dónde estás?                    | - Przepraszam, Junior. To bardzo dobra gra! Junior? Czego potrzebujesz? Junior? Gdzie jesteś?        |
 
 ### ¡A la estación!
 
