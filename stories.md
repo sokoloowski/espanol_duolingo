@@ -241,9 +241,9 @@ title: Español
 | :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
 | Vikram y su esposa, Priti, están en el aeropuerto.                        | Vikram i jego żona, Priti, są na lotnisku.                                 |
 | - ¡Ay, no! ¿Dónde está mi pasaporte? ¡No está aquí!                       | - O nie! Gdzie jest mój paszport? Nie ma go tu!                            |
-| - Vikram…                                                                 | - Vikram...                                                                |
-| - No está en mi cartera… Y no está en mi chaqueta.                        | - Nie ma go w mojej torbie... I nie ma go w mojej kurtce.                  |
-| - Vik…                                                                    | - Vik...                                                                   |
+| - Vikram...                                                               | - Vikram...                                                                |
+| - No está en mi cartera... Y no está en mi chaqueta.                      | - Nie ma go w mojej torbie... I nie ma go w mojej kurtce.                  |
+| - Vik...                                                                  | - Vik...                                                                   |
 | - ¡Está en el taxi!                                                       | - Jest w taksówce!                                                         |
 | Vikram corre a buscar su taxi.                                            | Vikram biegnie popatrzeć za swoją taksówką.                                |
 | - ¡Vik, no!                                                               | - Vik, nie!                                                                |
