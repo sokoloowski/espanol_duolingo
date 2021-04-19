@@ -587,3 +587,13 @@ title: Español
 | - En la escuela.                                                                                | - W szkole.                                                                        |
 | - Junior, ¿cómo vamos a estudiar sin tu libro?                                                  | - Junior, jak my będziemy się uczyć bez twojej książki?                            |
 | - Tú vas a la escuela, buscas mi libro... y yo juego aquí en mi casa.                           | - Idziesz do szkoły, poszukasz mojej książki... a ja pogram tutaj w moim domu.     |
+
+## Zestaw 8
+
+### La novia perfecta
+
+### Un boleto para Canadá
+
+### Necesito un videojuego nuevo
+
+### No puedo dormir
