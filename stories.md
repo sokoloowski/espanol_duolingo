@@ -511,7 +511,25 @@ title: Español
 
 ## Zestaw 7
 
-### ¡Un café, por favor!
+### ¡Un café, por favor! - Poproszę kawę!
+
+| Español                                                           | Polski                                                   |
+| :---------------------------------------------------------------- | :------------------------------------------------------- |
+| Eddy está en un restaurante con su hijo, Junior.                  | Eddy jest w restauracji ze swoim synem, Juniorem.        |
+| - Hola, Eddy. ¿Quieres un café?                                   | - Cześć, Eddy. Chcesz kawę?                              |
+| - Sí, una taza grande de café, por favor.                         | - Tak, poproszę dużą filiżankę kawy.                     |
+| - ¿Con o sin leche?                                               | - Z mlekiem czy bez?                                     |
+| - Con leche, por favor.                                           | - Poproszę z mlekiem.                                    |
+| - Y... ¿con o sin azúcar?                                         | - I... z cukrem czy bez?                                 |
+| - Con azúcar, por favor.                                          | - Poproszę z cukrem.                                     |
+| - ¡Yo también quiero una taza de café!                            | - Ja też chcę filiżankę kawy!                            |
+| - ¿Junior? ¿Tú quieres café?                                      | - Junior? Czy chcesz kawę?                               |
+| - Sí, quiero una taza con leche... y con azúcar... ¡y con helado! | - Tak, chcę filiżankę z mlekiem... i cukrem... i lodami! |
+| - ¿Con helado?                                                    | - Z lodami?                                              |
+| - ¡Sí, y sin café, por favor!                                     | - Tak, i bez kawy!                                       |
+| - Ah... ¿tú quieres un batido?                                    | - Ach... chcesz milkshake'a?                             |
+| - ¡Sí, por favor!                                                 | - Tak proszę!                                            |
+| - ¡Yo también quiero un batido! ¡Dos batidos, por favor!          | - Ja też chcę milkshake'a! Poproszę dwa milkshake'i!     |
 
 ### La ropa de Lily
 
