@@ -549,6 +549,28 @@ title: Español
 | - El color rojo es perfecto para ti.                        | - Czerwony kolor jest idealny dla Ciebie.            |
 | - ¿Y la tienda tiene gafas de sol moradaspurple sunglasses? | - A czy sklep ma fioletowe okulary przeciwsłoneczne? |
 
-### En el supermercado
+### En el supermercado - W supermarkecie
+
+| Español                                                     | Polski                                                         |
+| :---------------------------------------------------------- | :------------------------------------------------------------- |
+| Lin está en el supermercado con Bea.                        | Lin jest w supermarkecie z Beą.                                |
+| - Yo no quiero cocinar.                                     | - Nie chcę gotować.                                            |
+| - ¡Cocinar es muy divertido, Lin!                           | - Gotowanie to świetna zabawa, Lin!                            |
+| - Estoy muy cansada. ¿Quieres comer en un restaurante, Bea? | - Jestem bardzo zmęczona. Chcesz coś zjeść w restauracji, Bea? |
+| - ¡No, yo quiero cocinar!                                   | - Nie, chcę gotować!                                           |
+| - OK... ¿Qué necesitamos para cocinar?                      | - Okej... Czego potrzebujemy do gotowania?                     |
+| - ¡Nosotras necesitamos pasta!                              | - Potrzebujemy makaronu!                                       |
+| Ellas buscan la pasta.                                      | Szukają makaronu.                                              |
+| - Ah... La pasta está aquí.                                 | - Ach... makaron jest tutaj.                                   |
+| - Y también necesitamos un tomate.                          | - Potrzebujemy też pomidora.                                   |
+| Ellas buscan el tomate.                                     | Szukają pomidora.                                              |
+| - ¡Ah! ¡El tomate está aquí!                                | - Ach! Pomidor jest tutaj!                                     |
+| - Y también necesitamos vegetales.                          | - Potrzebujemy też warzyw.                                     |
+| - Ahh... Y leche...                                         | - Ach... I mleka...                                            |
+| - Y pan...                                                  | - I chleba...                                                  |
+| - Necesitamos muchas cosas, Bea.                            | - Potrzebujemy wielu rzeczy, Bea.                              |
+| - Sí, y yo estoy muy cansada.                               | - Tak, i jestem bardzo zmęczona.                               |
+| - ¿Quieres comer en un restaurante?                         | - Chcesz zjeść w restauracji?                                  |
+| - ¡Sí, por favor!                                           | - Tak, proszę!                                                 |
 
 ### El examen de inglés
