@@ -531,7 +531,23 @@ title: Español
 | - ¡Sí, por favor!                                                 | - Tak proszę!                                            |
 | - ¡Yo también quiero un batido! ¡Dos batidos, por favor!          | - Ja też chcę milkshake'a! Poproszę dwa milkshake'i!     |
 
-### La ropa de Lily
+### La ropa de Lily - Ubrania Lily
+
+| Español                                                     | Polski                                               |
+| :---------------------------------------------------------- | :--------------------------------------------------- |
+| Zari está en casa de Lily. Ella mira la ropa de Lily.       | Zari jest w domu Lily. Patrzy na ubrania Lily.       |
+| - Tú tienes mucha ropa morada.                              | - Masz dużo fioletowych ubrań.                       |
+| - El morado es mi color favorito.                           | - Fiolet to mój ulubiony kolor.                      |
+| - ¿Necesitas cinco camisas moradas?                         | - Potrzebujesz pięciu fioletowych koszul?            |
+| - Sí, y cinco abrigos morados.                              | - Tak, i pięć fioletowych płaszczy.                  |
+| - ¿Y cuatro sombreros morados?                              | - I czterech fioletowych czapek?                     |
+| - Sí, necesito mis sombreros.                               | - Tak, potrzebuję moich czapek.                      |
+| - Tengo algo para ti.                                       | - Mam coś dla ciebie.                                |
+| Zari tiene unas gafas de sol rojas.                         | Zari ma czerwone okulary przeciwsłoneczne.           |
+| - Son para ti. Son de mi tienda favorita.                   | - Są dla ciebie. Są z mojego ulubionego sklepu.      |
+| - Eh... Gracias.                                            | - Uh... Dziękuję.                                    |
+| - El color rojo es perfecto para ti.                        | - Czerwony kolor jest idealny dla Ciebie.            |
+| - ¿Y la tienda tiene gafas de sol moradaspurple sunglasses? | - A czy sklep ma fioletowe okulary przeciwsłoneczne? |
 
 ### En el supermercado
 
