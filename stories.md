@@ -573,4 +573,17 @@ title: Español
 | - ¿Quieres comer en un restaurante?                         | - Chcesz zjeść w restauracji?                                  |
 | - ¡Sí, por favor!                                           | - Tak, proszę!                                                 |
 
-### El examen de inglés
+### El examen de inglés - Egzamin z angielskiego
+
+| Español                                                                                         | Polski                                                                             |
+| :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| Junior está en su casa con Zari.                                                                | Junior jest w swoim domu z Zari.                                                   |
+| - ¡Zari, necesito tu ayuda!                                                                     | - Zari, potrzebuję twojej pomocy!                                                  |
+| - ¿Tú necesitas mi ayuda?                                                                       | - Potrzebujesz mojej pomocy?                                                       |
+| - Sí, tengo un examen de inglés muy importante... Y yo quiero jugar... pero tengo que estudiar. | - Tak, mam bardzo ważny test z angielskiego... I chcę grać... ale muszę się uczyć. |
+| - ¡Vamos a estudiar juntos! ¡Yo hablo muy bien inglés! ¿Dónde está tu libro?                    | - Pouczmy się razem! Mówię bardzo dobrze po angielsku! Gdzie jest twoja książka?   |
+| - En mi mochila.                                                                                | - W moim plecaku.                                                                  |
+| - Y... ¿dónde está tu mochila?                                                                  | - A... gdzie jest twój plecak?                                                     |
+| - En la escuela.                                                                                | - W szkole.                                                                        |
+| - Junior, ¿cómo vamos a estudiar sin tu libro?                                                  | - Junior, jak my będziemy się uczyć bez twojej książki?                            |
+| - Tú vas a la escuela, buscas mi libro... y yo juego aquí en mi casa.                           | - Idziesz do szkoły, poszukasz mojej książki... a ja pogram tutaj w moim domu.     |
