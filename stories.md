@@ -590,7 +590,26 @@ title: Español
 
 ## Zestaw 8
 
-### La novia perfecta
+### La novia perfecta - Idealna dziewczyna
+
+| Español                                                                            | Polski                                                                            |
+| :--------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| Lin está en la estación de tren. Ella ve a su amigo Martín. Él está con una mujer. | Lin jest na stacji kolejowej. Widzi swojego przyjaciela, Martína. Jest z kobietą. |
+| - ¡Hola, Martín!                                                                   | - Cześć Martin!                                                                   |
+| - ¡Hola, Lin!                                                                      | - Cześć Lin!                                                                      |
+| - Hola, mi nombre es Verónica.                                                     | - Witam, nazywam się Verónica.                                                    |
+| - Mucho gusto, yo soy Lin.                                                         | - Miło cię poznać, jestem Lin.                                                    |
+| - ¡Necesito comprar los boletos, Martín! ¡Mucho gusto, Lin!                        | - Muszę kupić bilety, Martín! Miło cię poznać, Lin!                               |
+| Verónica va a comprar los boletos.                                                 | Verónica idzie kupić bilety.                                                      |
+| - ¡Verónica es simpática!                                                          | - Verónica jest miła!                                                             |
+| - Sí, ella es muy simpática.                                                       | - Tak, jest bardzo miła.                                                          |
+| - Y bonita.                                                                        | - I ładna.                                                                        |
+| - ¿Eh? Sí.                                                                         | - Ech? Tak.                                                                       |
+| - ¡Ella es la novia perfecta!                                                      | - Jest idealną dziewczyną!                                                        |
+| - ¿Novia? ¡No, Verónica es mi madre!                                               | - Dziewczyną? Nie, Verónica jest moją matką!                                      |
+| - Tu... ¿Tu madre?                                                                 | - Twoją... Twoją matką?                                                           |
+| - ¡Jaja! Sí.                                                                       | - Haha! Tak.                                                                      |
+| - Eh... ¡mi tren está aquí! ¡Adiós!                                                | - Uh... mój pociąg jest tutaj! Do widzenia!                                       |
 
 ### Un boleto para Canadá
 
