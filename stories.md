@@ -611,7 +611,25 @@ title: Español
 | - ¡Jaja! Sí.                                                                       | - Haha! Tak.                                                                      |
 | - Eh... ¡mi tren está aquí! ¡Adiós!                                                | - Uh... mój pociąg jest tutaj! Do widzenia!                                       |
 
-### Un boleto para Canadá
+### Un boleto para Canadá - Bilet do Kanady
+
+| Español                                                          | Polski                                                                    |
+| :--------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| Vikram habla con Bea.                                            | Vikram rozmawia z Beą                                                     |
+| - ¡Hola, Bea! ¿Cómo estás?                                       | - Cześć, Bea! Jak się masz?                                               |
+| - ¡Muy bien! ¡Estoy muy emocionada por mis vacaciones en Canadá! | - Bardzo dobrze! Jestem bardzo podekscytowana moimi wakacjami w Kanadzie! |
+| - Canadá es muy bonito. ¿Cuándo son las vacaciones?              | - Kanada jest bardzo piękna. Kiedy są twoje wakacje?                      |
+| - ¡En tres semanas!                                              | - W ciągu trzech tygodni!                                                 |
+| - Y... ¿estás lista?                                             | - I... jesteś gotowa?                                                     |
+| - ¡Sí, yo estudio inglés todos los días!                         | - Tak, codziennie uczę się angielskiego!                                  |
+| - ¡Muy bien!                                                     | - Bardzo dobrze!                                                          |
+| - Tengo un mapa de Canadá.                                       | - Mam mapę Kanady.                                                        |
+| - Perfecto.                                                      | - Idealnie.                                                               |
+| - Y tengo un libro de los museos de Canadá.                      | - I mam książkę z muzeami w Kanadzie.                                     |
+| - ¡Estás muy lista!                                              | - Jesteś bardzo przygotowana!                                             |
+| - Sí, pero... necesito una cosa más.                             | - Tak, ale... potrzebuję jeszcze jednej rzeczy.                           |
+| - ¿Qué necesitas, Bea?                                           | - Czego potrzebujesz, Bea?                                                |
+| - Necesito dinero... para comprar el boleto para Canadá.         | - Potrzebuję pieniędzy... żeby kupić bilet do Kanady.                     |
 
 ### Necesito un videojuego nuevo
 
