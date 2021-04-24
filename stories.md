@@ -631,6 +631,21 @@ title: Español
 | - ¿Qué necesitas, Bea?                                           | - Czego potrzebujesz, Bea?                                                |
 | - Necesito dinero... para comprar el boleto para Canadá.         | - Potrzebuję pieniędzy... żeby kupić bilet do Kanady.                     |
 
-### Necesito un videojuego nuevo
+### Necesito un videojuego nuevo - Potrzebuję nowej gry
+
+| Español                                                                  | Polski                                                               |
+| :----------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| Junior y Eddy están en una tienda.                                       | Junior i Eddy są w sklepie.                                          |
+| - ¡Papá, necesito un videojuego nuevo!                                   | - Tato, potrzebuję nowej gry wideo!                                  |
+| - No, Junior. No necesitas un videojuego nuevo.                          | - Nie, Junior. Nie potrzebujesz nowej gry wideo.                     |
+| - ¡Por favor! ¡Este videojuego de robots es muy divertido!               | - Proszę! Ta gra wideo z robotami to świetna zabawa!                 |
+| - Junior, tú quieres este videojuego, pero no necesitas este videojuego. | - Junior, chcesz tę grę wideo, ale nie potrzebujesz tej gry wideo.   |
+| - Está bien, ¡yo lo quiero! ¿Lo compramos?                               | - Okej, chcę to! Możemy ją kupić?                                    |
+| - No... Tienes muchos videojuegos en casa.                               | - Nie... Masz w domu dużo gier wideo.                                |
+| - Sí, sí... Está bien, ¿vamos a casa?                                    | - Tak, tak... Dobra, idziemy do domu?                                |
+| - No, vamos a casa de Vikram.                                            | - Nie, jedziemy do domu Vikrama.                                     |
+| - ¿Por qué? ¡Su casa es muy aburrida!                                    | - Dlaczego? Jego dom jest bardzo nudny!                              |
+| - Pero su televisión es grande y yo necesito ver el partido de fútbol.   | - Ale jego telewizor jest świetny i muszę oglądać mecz piłki nożnej. |
+| - Papá, tú quieres ver el partido, pero no necesitas ver el partido.     | - Tato, chcesz obejrzeć mecz, ale nie musisz oglądać meczu.          |
 
 ### No puedo dormir
