@@ -8,7 +8,7 @@ title: Español
 
 [Historie Duolingo](stories)
 
-## Osoby
+## Osoby $ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $
 
 |  Español   | Polski  |
 | :--------: | :-----: |
