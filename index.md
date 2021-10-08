@@ -1,6 +1,5 @@
 ---
 title: Español
-layout: post
 ---
 
 # Español - Hiszpański
@@ -9,7 +8,7 @@ layout: post
 
 [Historie Duolingo](stories)
 
-## Osoby $ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $
+## Osoby
 
 |  Español   | Polski  |
 | :--------: | :-----: |
