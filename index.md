@@ -1,5 +1,6 @@
 ---
 title: Español
+layout: post
 ---
 
 # Español - Hiszpański
